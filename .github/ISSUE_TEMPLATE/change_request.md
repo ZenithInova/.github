@@ -2,7 +2,6 @@
 name: Change Request
 about: Write a change that the repository might have
 title: "[CHANGE]"
-assignees: RianErnesto
 
 ---
 
